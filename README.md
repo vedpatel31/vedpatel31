@@ -1,259 +1,187 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Ved Patel
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ved+Patel;Web+Dev+%2B+AI+Workflow+Engineer;I+build+%2C+automate+%26+ship;n8n+%7C+OpenAI+API+%7C+Full-Stack" alt="Typing SVG" />
 
-### 🚀 AI Engineer | Agentic AI Developer | Python Developer | n8n Automation | Full Stack Developer
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;AI+Engineer;Agentic+AI+Developer;n8n+Automation+Expert;Python+Developer;Java+Developer;Building+Future+with+Artificial+Intelligence"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=VedPatel18&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/VedPatel18?style=for-the-badge">
-
-<img src="https://img.shields.io/github/stars/VedPatel18?style=for-the-badge">
+![Profile Views](https://komarev.com/ghpvc/?username=vedpatel&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![Gmail](https://img.shields.io/badge/-ved.patel.2731%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ved.patel.2731@gmail.com)
+[![Location](https://img.shields.io/badge/-Satlasna%2C%20Gujarat%2C%20India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
 ---
 
-# 💫 About Me
+### ⚡ About Me
 
-```python
-class VedPatel():
-
-    def __init__(self):
-
-        self.name = "Ved Patel"
-
-        self.role = "AI Engineer"
-
-        self.education = "B.Tech Computer Engineering"
-
-        self.skills = [
-            "Python",
-            "Java",
-            "JavaScript",
-            "NodeJS",
-            "MongoDB",
-            "n8n",
-            "OpenAI",
-            "Agentic AI",
-            "Generative AI"
-        ]
-
-        self.current_focus = [
-            "Building AI Agents",
-            "AI Automation",
-            "LLMs",
-            "MCP",
-            "RAG",
-            "LangChain"
-        ]
-
-    def say_hi(self):
-
-        print("Thanks for visiting my profile ❤️")
+```yaml
+name: "Ved Patel"
+role: "Web Development & AI Workflow Professional"
+education: "B.Tech CSE @ Charusat University (2023 - 2027) | CGPA: 7.77"
+focus: ["Full-Stack Web Dev", "AI Automation", "Chatbots & Agents"]
+currently_building: "AI-powered automation systems with n8n + OpenAI API"
+philosophy: "Clean code. Scalable systems. Continuous learning."
+fun_fact: "I also make music 🎵 — sometimes with a little AI help."
 ```
 
 ---
 
-# 🚀 Current Focus
-
-- 🤖 Building Agentic AI Systems
-- 🧠 Learning Advanced LLMs
-- ⚡ n8n AI Automations
-- 🐍 Python Development
-- 🌐 Full Stack Development
-- 🚀 Open Source Contribution
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-## Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-
----
-
-## Frontend
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
-
----
-
-## Backend
-
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
-
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
----
-
-## Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
----
-
-## AI
-
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
-
-![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n)
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
-
-![Pinecone](https://img.shields.io/badge/Pinecone-green?style=for-the-badge)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VedPatel18&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedPatel18&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=VedPatel18&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VedPatel18&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VedPatel18&theme=algolia&row=2&column=4"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-⭐ AI Resume Builder
-
-⭐ AI Call Agent
-
-⭐ Cab Booking Website
-
-⭐ Sparkling Window Cleaners
-
-⭐ Expense Tracker
-
-⭐ Agentic AI Workflows
-
----
-
-# 📚 Currently Learning
-
-- Agentic AI
-- Model Context Protocol (MCP)
-- RAG
-- LangGraph
-- CrewAI
-- Multi-Agent Systems
-- Generative AI
-- Docker
-- Kubernetes
-
----
-
-# ⚡ Fun Fact
-
-```text
-while(alive){
-
-    Eat();
-
-    Code();
-
-    Learn();
-
-    Repeat();
-
-}
-```
-
----
-
-# 💖 Support
-
-If you like my work,
-
-⭐ Star my repositories
-
-🤝 Follow me
-
-🚀 Let's build something amazing together.
-
----
+### 🧠 Tech Stack
 
 <div align="center">
 
-## Thanks for Visiting ❤️
+**Languages**
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI & Automation**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Chatbots](https://img.shields.io/badge/AI%20Chatbot%20Dev-00C7B7?style=for-the-badge&logo=probot&logoColor=white)
+
+**Web & Backend**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+### 💼 Experience
+
+**Web Development Intern — Launched Global, Bangalore, India**
+`May 2025 – Jul 2025`
+
+- 🚕 Built a full-stack **Cab Booking Web App** with authentication, booking management & a responsive admin dashboard
+- 📧 Integrated automated email notifications for booking confirmations using HTML, CSS, JavaScript & MongoDB
+- 📱 Delivered smooth, responsive navigation across all devices, improving overall UX
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🤖 AI Resume Builder**
+`HTML · CSS · JavaScript`
+
+AI-powered resume builder with real-time preview, a multi-step form system, and PDF export.
+
+</td>
+<td width="50%">
+
+**📸 AI Smart Attendance System**
+`Python · OpenCV`
+
+Face-recognition attendance system with real-time detection, anti-spoofing, and an admin monitoring panel.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**💬 AI WhatsApp Business Automation**
+`n8n · OpenAI API · Twilio · Razorpay · Google APIs`
+
+End-to-end WhatsApp automation for chatbot support, appointment booking, and payment processing.
+
+</td>
+<td width="50%">
+
+**📲 AI Social Media Automation**
+`n8n · OpenAI API`
+
+Automated content generation, scheduling, approvals, and multi-platform posting across Instagram, LinkedIn & X.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**⚙️ AI Automation & Workflow Projects**
+`n8n · OpenAI API · Webhooks · JSON`
+
+A collection of workflows: dynamic API endpoint creation, AI chat agent support, automated GitHub backups, and ETL dataset pipelines.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vedpatel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedpatel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vedpatel&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedpatel&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
+
+</div>
+
+> ⚠️ Replace `vedpatel` above with your actual GitHub username so the stat widgets pull your real data.
+
+---
+
+### 🎓 Education
+
+| Degree | Institute | Duration | Score |
+|---|---|---|---|
+| B.Tech – Computer Science & Engineering | Charusat University | 2023 – 2027 | CGPA: 7.77 |
+| Higher Secondary (12th, Science) | Shree Ram Vidhyamandir, Palanpur | — | 92.37 Percentile (75.33%) |
+
+---
+
+### 📜 Certifications
+
+- 🏆 Build Intelligent Agents Using DeepSeek & n8n
+- 🏆 Python for Data Science, AI & Development
+- 🏆 AI Agents: From Prompts to Multi-Agent Systems
+- 🏆 Foundations of UX Design — Coursera
+
+---
+
+### 🎯 Interests
+
+`🎵 Music Creation & AI-based Music Generation`  `🤖 Emerging AI Technologies & Productivity Tools`  `🤝 Collaborative Teamwork & Open-Source`
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ved.patel.2731@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer" width="100%"/>
+
+**⭐ From building cab-booking apps to automating entire WhatsApp businesses — always shipping.**
 
 </div>
