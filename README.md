@@ -7,7 +7,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vedpatel&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
 [![Gmail](https://img.shields.io/badge/-ved.patel.2731%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ved.patel.2731@gmail.com)
-[![Location](https://img.shields.io/badge/-Satlasna%2C%20Gujarat%2C%20India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/-%2C%20Gujarat%2C%20India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
